@@ -4,7 +4,7 @@ It contains only tutorial javascript files.
 
 #Tutorial Projects
 
-The mentioned projects will uploaded on a different repositories
+The mentioned projects are uploaded on different repositories respectively.
 
 #This tutorial is from CodeWithHarry youtube channel
 
